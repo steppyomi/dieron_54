@@ -1,1 +1,1 @@
-Venz Philip Marel T. Dieron BSIT-2 sc54
+Venz Philip Marel T. Dieron BSIT-2 54
