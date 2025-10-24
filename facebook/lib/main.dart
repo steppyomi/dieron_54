@@ -1,5 +1,4 @@
 import 'package:facebook/page/maincustom.dart';
-import 'package:facebook/page/newsfeed.dart';
 import 'package:flutter/material.dart';
 
 void main() {
